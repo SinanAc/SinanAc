@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Flutter, Dart, Provider, Restful API's**
 
-- 📫 How to reach me **sinanac124@gmail.com**
+- 📫 How to reach me **sinanac124@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
