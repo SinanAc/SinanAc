@@ -1,9 +1,9 @@
-<h1 align="center">Hello world 👋 I'm, Muhammad Sinan Ac</h1>
+<h1 align="center">Hello world,👋 I'm, Muhammad Sinan AC</h1>
 <h3 align="center">Self-taught Flutter developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinanac&label=Profile%20views&color=0e75b6&style=flat" alt="sinanac" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinanac" alt="sinanac" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinanac&theme=onedark" alt="sinanac" /></a> </p>
 
 - 🔭 I’m currently working on [Hotella (Hotel booking app)](https://github.com/SinanAc/hotella)
 
