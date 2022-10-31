@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on [Hotella (Hotel booking app)](https://github.com/SinanAc/hotella)
 
-- 🌱 I’m currently learning **GetX, Bloc, Clean architecture**
+- 🌱 I’m currently learning **GetX, Bloc, Clean architecture**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/SinanAc](https://github.com/SinanAc)
 
-- 💬 Ask me about **Flutter, Dart, Provider, Restful API's**
+- 💬 Ask me about **Flutter, Dart, Provider, Rest API's**
 
-- 📫 How to reach me **sinanac124@gmail.com** 
+- 📫 Reach me at  **sinanac124@gmail.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
