@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinanac&label=Profile%20views&color=0e75b6&style=flat" alt="sinanac" /> </p>
 
 
-- 🔭 I’m currently working on [Hotella (Hotel booking app)](https://github.com/SinanAc/hotella)
+- 🔭 I’m currently working on a [Live Tracking application]
 
-- 🌱 I’m currently learning **GetX, Bloc, Clean architecture**.
+- 🌱 I’m currently learning **Bloc, Web socket, Background services**.
 
 - 👨‍💻 All of my projects are available at [https://github.com/SinanAc](https://github.com/SinanAc)
 
